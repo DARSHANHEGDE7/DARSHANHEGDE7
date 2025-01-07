@@ -18,7 +18,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">I'm Darshan Hegde from India.<br><br>- 🔭 I’m working on AgroNest and Virtual Mouse Using OpenCV.<br>- 📚 I'm currently learning Advanced Data Structures and Machine Learning for Cybersecurity.<br>- ⚡ In my free time I love exploring new technologies and hiking.</p>
+<p align="left">I'm Darshan Hegde from India.<br><br>- 
 
 <h3 align="left">🛠 Language and Tools</h3>
 
