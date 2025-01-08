@@ -12,7 +12,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">I'm Darshan Hegde from India.<br><br>- 
+<p align="left">I'm Darshan Hegde from Bengaluru.<br><br>- 
 
 <h3 align="left">🛠 Language and Tools</h3>
 
