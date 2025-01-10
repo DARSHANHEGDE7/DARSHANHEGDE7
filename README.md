@@ -1,8 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Darshan Hegde</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanhegde7&label=Profile%20views&color=0e75b6&style=flat" alt="darshanhegde7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanhegde7" alt="darshanhegde7" /></a> </p>
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 📫 How to reach me **darshanhegde990@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanhegde7&show_icons=true&locale=en&layout=compact" alt="darshanhegde7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanhegde7&show_icons=true&locale=en" alt="darshanhegde7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhegde7&" alt="darshanhegde7" /></p>
