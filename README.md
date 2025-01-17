@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Hegde</h1>
+<h1 align="center">Hi 👋 I'm Darshan Hegde</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanhegde7&label=Profile%20views&color=0e75b6&style=flat" alt="darshanhegde7" /> </p>
