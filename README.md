@@ -57,8 +57,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanhegde7&show_icons=true&locale=en&layout=compact" alt="darshanhegde7" /></p>
 
-<!-- Clear the previous floats to push the second image below -->
-<div style="clear: both;"></div>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhegde7&theme=dark" alt="darshanhegde7" /></p>
 
