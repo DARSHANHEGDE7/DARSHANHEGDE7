@@ -11,10 +11,15 @@
 - 🎓 **Information Science & Engineering** | 2025 Batch  
 - 💡 Passionate about **Web Development** and **Data Engineering**  
 - 🔍 Exploring **Big Data Technologies**  
-- 🏗️ Building **AgroNest** | A Real Estate Platform for Agricultural Lands & Houses  
-- ⚡ Fun fact: I love **Python Automation & Open Source Contribution**  
+ 
 
 ---
+## 📬 Connect With Me  
+<a href="mailto:darshanhegde990@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/darshan-hegde-310721228/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -47,10 +52,5 @@
 
 ---
 
-## 📬 Connect With Me  
-<a href="mailto:darshanhegde990@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/darshan-hegde-310721228/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
----
 
 🔥 *"Code, Build, Innovate, Repeat!"* 🔥
