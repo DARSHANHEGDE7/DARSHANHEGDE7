@@ -1,5 +1,5 @@
-# Darshan Hegde:
- @ QSG Technologies Pvt Ltd<br> 🎓 Information Science & Engineering | 2025 Batch <br>💡 Passionate about  Web Development And Data Engineering<br>🔍 Exploring Big data Technologies
+# Darshan Hegde
+ Intern @ QSG Technologies Pvt Ltd<br> 🎓 Information Science & Engineering | 2025 Batch <br>💡 Passionate about  Web Development And Data Engineering<br>🔍 Exploring Big data Technologies
 
 
 ## 🌐 Socials:
