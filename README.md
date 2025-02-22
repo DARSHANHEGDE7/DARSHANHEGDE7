@@ -1,16 +1,17 @@
 <h1 align="center">Hi there, I'm Darshan Hegde 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Enthusiast;Data+Engineering+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Enthusiast;Data+Engineering+Enthusiast;Intern+@+QSG+Technologies" />
 </p>
 
 ---
 
 ## 🚀 About Me
+- 🏢 **Intern @ QSG Technologies Pvt Ltd**  
 - 🎓 **Information Science & Engineering** | 2025 Batch  
-- 💡 Passionate about **Web Development**, **AI/ML**, and **Software Engineering**  
+- 💡 Passionate about **Web Development** and **Data Engineering**  
+- 🔍 Exploring **Big Data Technologies**  
 - 🏗️ Building **AgroNest** | A Real Estate Platform for Agricultural Lands & Houses  
-- 🔍 Exploring **Cybersecurity in SDN for Healthcare Systems**  
 - ⚡ Fun fact: I love **Python Automation & Open Source Contribution**  
 
 ---
@@ -27,21 +28,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big%20Data-%23007ACC.svg?style=flat&logo=apache&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects  
-### 🚜 [AgroNest](https://github.com/yourusername/agronest)
+### 🚜 [AgroNest](https://github.com/darshanhegde990/agronest)
 **Tech Stack:** MERN Stack  
 - 🏡 A real estate platform for **buying & selling agricultural lands & houses**  
 - 🌱 Simplified property listing & direct owner-buyer communication  
 
-### 🖱️ [Virtual Mouse Using OpenCV](https://github.com/yourusername/virtual-mouse)
+### 🖱️ [Virtual Mouse Using OpenCV](https://github.com/darshanhegde990/virtual-mouse)
 **Tech Stack:** OpenCV, Python  
 - 🖥️ Control your system using **hand gestures via webcam**  
 - 🖖 Gesture-based **click & drag functionality**  
 
-### 🛡️ [MCAD: ML-Based Cyber Attack Detection](https://github.com/yourusername/mcad)
+### 🛡️ [MCAD: ML-Based Cyber Attack Detection](https://github.com/darshanhegde990/mcad)
 **Tech Stack:** Python, Machine Learning, SDN  
 - 🔍 AI-powered **cybersecurity model for healthcare systems**  
 - 📊 Implements **intrusion detection using ML algorithms**  
@@ -50,16 +52,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanhegde990&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhegde990&theme=radical" width="48%"/>
 </p>
 
 ---
 
 ## 📬 Connect With Me  
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:darshanhegde990@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/darshan-hegde-310721228/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
