@@ -1,4 +1,5 @@
 # Darshan Hegde
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Enthusiast;AI%2FML+Explorer;Open+Source+Contributor
  Intern @ QSG Technologies Pvt Ltd<br> 🎓 Information Science & Engineering | 2025 Batch <br>💡 Passionate about  Web Development And Data Engineering<br>🔍 Exploring Big data Technologies
 
 
