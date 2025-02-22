@@ -1,12 +1,5 @@
-back to edit
 
-copy-markdown
 
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Darshan Hegde</h1>
 <h3 align="center">A passionate about Software Development and Data Engineering</h3>
 
