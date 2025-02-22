@@ -11,8 +11,6 @@
 - 🎓 **Information Science & Engineering** | 2025 Batch  
 - 💡 Passionate about **Web Development** and **Data Engineering**  
 - 🔍 Exploring **Big Data Technologies**  
-- 🏗️ Building **AgroNest** | A Real Estate Platform for Agricultural Lands & Houses  
-- ⚡ Fun fact: I love **Python Automation & Open Source Contribution**  
 
 ---
 
