@@ -32,23 +32,6 @@
 
 ---
 
-## 📌 Featured Projects  
-### 🚜 [AgroNest](https://github.com/DARSHANHEGDE7/agronest)
-**Tech Stack:** MERN Stack  
-- 🏡 A real estate platform for **buying & selling agricultural lands & houses**  
-- 🌱 Simplified property listing & direct owner-buyer communication  
-
-### 🖱️ [Virtual Mouse Using OpenCV](https://github.com/DARSHANHEGDE7/virtual-mouse)
-**Tech Stack:** OpenCV, Python  
-- 🖥️ Control your system using **hand gestures via webcam**  
-- 🖖 Gesture-based **click & drag functionality**  
-
-### 🛡️ [MCAD: ML-Based Cyber Attack Detection](https://github.com/DARSHANHEGDE7/mcad)
-**Tech Stack:** Python, Machine Learning, SDN  
-- 🔍 AI-powered **cybersecurity model for healthcare systems**  
-- 📊 Implements **intrusion detection using ML algorithms**  
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
