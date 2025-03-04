@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🏢 **Intern @ QSG Technologies Pvt Ltd**  
+
 - 🎓 **Information Science & Engineering** | 2025 Batch  
 - 💡 Passionate about **Web Development** and **Data Engineering**  
 - 🔍 Exploring **Big Data Technologies**  
