@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 **Information Science & Engineering** | 2025 Batch | VTU 
-- 💡 Passionate about **Web Development** and **Cloud **  
+- 💡 Passionate about **Web Development** and Cloud 
 - 🔍 Exploring **devops tools**  
  
 
